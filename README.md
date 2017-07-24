@@ -5,7 +5,8 @@ Here is a simple example of a custom Drawer using **React Navigation** for React
 Don't forget to install packages using `npm install` or `yarn`.
 
 Aiiighht 😎
-![Drawer](https://img15.hostingpics.net/pics/910292drawer.gif)
+
+![Drawer](./src/assets/drawerMenu.gif)
 
 Original Example
 https://github.com/XavierColombel/react-navigation-drawer-example.git
